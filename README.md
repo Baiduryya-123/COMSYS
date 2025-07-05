@@ -86,6 +86,7 @@ It is divided into two main tasks:
 | Train      | 99.55%   | 99.55%    | 99.55% | 99.55%   |
 | Validation | **92.17%**| 92.17%   | 92.17% | 92.17%   |
 - **Top-1 Accuracy:** **97.66%**
+- **macro average f1-score is 92.17%**
 
 ---
 
