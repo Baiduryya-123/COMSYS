@@ -1,5 +1,3 @@
-# COSMYS_WIZARDS
-
 # 🚀 COSMYS_WIZARDS
 
 ## 👥 Team Details
