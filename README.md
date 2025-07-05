@@ -92,7 +92,7 @@ It is divided into two main tasks:
 
 ### 🧠 Task A Model  
 📦 **EfficientNetV2B2 + LSTM**  
-👉 [Click here to access the Task A Model on Google Drive](https://drive.google.com/drive/u/0/folders/1OAht7tc99vldogZqZQP42qgARXAGT_pR)
+👉 [Click here to access the Task A Model on Google Drive](https://drive.google.com/file/d/1v-S1mMl5AcPCZBecUQYj_CxX8gl0Ig5x/view)
 
 > ⚠️ Note: Ensure Google sign-in access.
 
@@ -100,7 +100,7 @@ It is divided into two main tasks:
 
 ### 🧠 Task B Model  
 📦 **Siamese Network with ResNet50**  
-👉 [Click here to access the Task B Model on Google Drive](https://drive.google.com/file/d/1v-S1mMl5AcPCZBecUQYj_CxX8gl0Ig5x/view?usp=sharing)
+👉 [Click here to access the Task B Model on Google Drive](https://drive.google.com/file/d/1FRioocZaZHXanVLQfJdGLzP__lYc9E00/view?usp=sharing)
 
 > ⚠️ Note: Ensure Google sign-in access.
 
