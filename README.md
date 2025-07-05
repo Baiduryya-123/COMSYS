@@ -34,7 +34,7 @@ It is divided into two main tasks:
   - Classification using `Dense + Softmax`
 
 - **Task B**:  
-  - Built a `Siamese Network` using `EfficientNetV2B3` as shared sub-networks  
+  - Built a `Siamese Network` using `ResNet50` as shared sub-networks  
   - Identity verification via absolute embedding differences + Dense layer with sigmoid
 
 ### ⚙️ Training Strategy
@@ -100,7 +100,7 @@ It is divided into two main tasks:
 ---
 
 ### 🧠 Task B Model  
-📦 **Siamese Network with EfficientNetV2B3**  
+📦 **Siamese Network with ResNet50**  
 👉 [Click here to access the Task B Model on Google Drive](https://drive.google.com/file/d/1v-S1mMl5AcPCZBecUQYj_CxX8gl0Ig5x/view?usp=sharing)
 
 > ⚠️ Note: Ensure Google sign-in access.
