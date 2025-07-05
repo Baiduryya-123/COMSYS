@@ -6,7 +6,7 @@
 
 - **Team Name:** WIZARDS  
 - **Team Members:** Baiduryya Garai, Ayush Saha, Antara Pal  
-- **Email & Contact:** *[Add contact info if required]*
+- **Email & Contact:** *ayush4saha@gmail.com*
 
 ---
 
