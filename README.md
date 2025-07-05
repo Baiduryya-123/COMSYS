@@ -1,4 +1,4 @@
-# 🚀 COSMYS_WIZARDS
+# 🚀 COMSYS_WIZARDS
 
 ## 👥 Team Details
 
