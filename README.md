@@ -69,8 +69,8 @@ It is divided into two main tasks:
 
 | Dataset    | Accuracy | Precision | Recall | F1-Score |
 |------------|----------|-----------|--------|----------|
-| Train      | 100%     | 1.00      | 1.00   | 1.00     |
-| Validation | **93.6%**| 0.94      | 0.94   | 0.94     |
+| Train      | 100%     | 100%      | 100%   | 100%     |
+| Validation | **93.6%**| 94%       | 94%    | 94%      |
 
 - **Male Accuracy:** 86.1%
 - **Female Accuracy:** 95.3%
