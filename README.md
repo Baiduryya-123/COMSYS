@@ -28,7 +28,7 @@ It is divided into two main tasks:
 ### 🧠 Model Architectures
 
 - **Task A**:  
-  - Used `EfficientNetV2B3` + `LSTM (64 units)`  
+  - Used `EfficientNetV2B2` + `LSTM (64 units)`  
   - Classification using `Dense + Softmax`
 
 - **Task B**:  
