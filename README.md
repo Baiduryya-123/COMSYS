@@ -91,7 +91,7 @@ It is divided into two main tasks:
 ## 📥 Model Downloads
 
 ### 🧠 Task A Model  
-📦 **EfficientNetV2B3 + LSTM**  
+📦 **EfficientNetV2B2 + LSTM**  
 👉 [Click here to access the Task A Model on Google Drive](https://drive.google.com/drive/u/0/folders/1OAht7tc99vldogZqZQP42qgARXAGT_pR)
 
 > ⚠️ Note: Ensure Google sign-in access.
